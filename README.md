@@ -1,6 +1,10 @@
 # DummyShop
 
 DummyShop is a responsive product discovery application built with React, TanStack Query, and Tailwind CSS. It retrieves product data from the [DummyJSON Products API](https://dummyjson.com/products), supports search and category filtering, paginates product results, and stores favorites in browser `localStorage`.
+![DummyShop Application Preview]
+
+<img width="1897" height="901" alt="Ekran görüntüsü 2026-11-19 154218" src="https://github.com/user-attachments/assets/0f1c8c20-9e2a-4caa-9d98-2e97ef9c645d" />
+<img width="1017" height="789" alt="Ekran görüntüsü 2026-11-19 154310" src="https://github.com/user-attachments/assets/b35c0232-1062-4a3c-9fcd-0ff0abad3745" />
 
 
 ## Features
